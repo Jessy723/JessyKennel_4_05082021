@@ -679,7 +679,7 @@ a {
 }
 
 p {
-  font-size: 11px;
+  font-size: 18px;
 }
 
 .tight-width-whitespace {
@@ -1060,4 +1060,7 @@ h4 {
 .tight-width-whitespace {
   max-width: 600px;
   margin: auto auto auto auto;
+}
+.text-img {
+  font-size: 1.6em;
 }
